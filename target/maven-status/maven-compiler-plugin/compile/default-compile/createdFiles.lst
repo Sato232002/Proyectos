@@ -1,0 +1,16 @@
+Test\TestUsuario.class
+Test\TestAlimento.class
+DOMINIO\Receta.class
+DOMINIO\AlimentoProcesado.class
+DOMINIO\ItemReceta.class
+DOMINIO\Usuario.class
+Test\TestReceta.class
+Test\TestTipoDieta.class
+DOMINIO\PlanAlimenticio.class
+Test\TestItemReceta.class
+Test\TestPlanAlimenticio.class
+Test\TestCategoria.class
+Test\TestAlimentoProcesada.class
+DOMINIO\Alimento.class
+DOMINIO\Categoria.class
+DOMINIO\TipoDieta.class
